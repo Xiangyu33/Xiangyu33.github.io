@@ -1,0 +1,26 @@
+experiences:
+
+- place: "University College London"
+  time: "Sep. 2022 - now"
+  title: "Ph.D. Student"
+  subtitle: "Department of Statistical Science"
+  category: "school"
+
+- place: "Tsinghua University"
+  time: "Sep. 2019 - Jul. 2022"
+  title: "M.E. Student"
+  subtitle: "Department of Electronic Engineering"
+  category: "school"
+
+- place: "DJI"
+  time: "Nov. 2020 - Jul. 2021"
+  title: "Research Intern"
+  subtitle: "R&D Department"
+  category: "work"
+
+- place: "Xidian University"
+  time: "Sep. 2015 - Jul. 2019"
+  title: "B.E. Student"
+  subtitle: "School of Electronic Engineering"
+  category: "school"
+  
