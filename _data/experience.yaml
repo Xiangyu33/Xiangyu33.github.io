@@ -7,18 +7,18 @@ experiences:
   category: "work"
 
 
-- place: "Hikvision"
-  time: "May. 2021 - Aug. 2021"
-  title: " Algorithm Engineer Intern"
-  subtitle: "Research Institute"
-  category: "work"
-
 - place: "Xidian University"
   time: "Sep. 2019 - Jul. 2022"
   title: "M.E. Student"
   subtitle: "School of Electronic Engineering"
   category: "school"
-
+  
+- place: "Hikvision"
+  time: "May. 2021 - Aug. 2021"
+  title: " Algorithm Engineer Intern"
+  subtitle: "Research Institute"
+  category: "school"
+  
 - place: "Xidian University"
   time: "Sep. 2015 - Jul. 2019"
   title: "B.E. Student"
