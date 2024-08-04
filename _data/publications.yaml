@@ -1,20 +1,20 @@
 papers:
 
   - title: "基于时空背景比对的黑烟车检测判定方法及系统"
-    authors: "李洁，<b>张翔宇</b>, 焦群翔， 续拓， 唐铭蔚"
+    authors: "李洁，<b>张翔宇</b>, 焦群翔， 续拓， 唐铭蔚（学生一作）"
     state: "已授权"
     patent id: 202011053114.4
     selected: y
 
-  - title: "STDAN: Deformable Attention Network for Space-Time Video Super-Resolution"
-    authors: "<b>Hai Wang</b>, Xiaoyu Xiang, Yapeng Tian, Wenming Yang, Qingming Liao"
-    venue: "TNNLS'23: IEEE Transactions on Neural Networks and Learning Systems."
-    paper_pdf: "https://ieeexplore.ieee.org/abstract/document/10045744"
-    code: "https://github.com/littlewhitesea/STDAN"
-    selected: y
+  # - title: "STDAN: Deformable Attention Network for Space-Time Video Super-Resolution"
+  #   authors: "<b>Hai Wang</b>, Xiaoyu Xiang, Yapeng Tian, Wenming Yang, Qingming Liao"
+  #   venue: "TNNLS'23: IEEE Transactions on Neural Networks and Learning Systems."
+  #   paper_pdf: "https://ieeexplore.ieee.org/abstract/document/10045744"
+  #   code: "https://github.com/littlewhitesea/STDAN"
+  #   selected: y
   
-  - title: "Bi-RSTU: Bidirectional Recurrent Upsampling Network for Space-Time Video Super-Resolution"
-    authors: "<b>Hai Wang</b>, Wenming Yang, Qingmin Liao and Jie Zhou"
-    venue: "TMM'22: IEEE Transactions on Multimedia."
-    paper_pdf: "https://ieeexplore.ieee.org/document/9793365"
-    selected: y
+  # - title: "Bi-RSTU: Bidirectional Recurrent Upsampling Network for Space-Time Video Super-Resolution"
+  #   authors: "<b>Hai Wang</b>, Wenming Yang, Qingmin Liao and Jie Zhou"
+  #   venue: "TMM'22: IEEE Transactions on Multimedia."
+  #   paper_pdf: "https://ieeexplore.ieee.org/document/9793365"
+  #   selected: y
