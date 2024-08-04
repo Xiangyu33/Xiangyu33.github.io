@@ -1,9 +1,8 @@
 papers:
 
-  - title: "基于时空背景比对的黑烟车检测判定方法及系统"
-    authors: "李洁，<b>张翔宇</b>, 焦群翔， 续拓， 唐铭蔚（学生一作）"
-    state: "已授权"
-    patent id: 202011053114.4
+  - title: "基于时空背景比对的黑烟车检测判定方法及系统（已授权）"
+    authors: "李洁，<b>张翔宇</b>（学生一作）, 焦群翔， 续拓， 唐铭蔚"
+    venue: "专利号：202011053114.4"
     selected: y
 
   # - title: "STDAN: Deformable Attention Network for Space-Time Video Super-Resolution"
