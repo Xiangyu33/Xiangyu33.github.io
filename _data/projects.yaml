@@ -1,18 +1,18 @@
 projects:
-  - title: " Network Effects"
-    subtitle: "Randomizing Over Randomized Experiments"
-    thumbnail: "assets/projects/2016_network-ab/thumbnail.jpg"
-    url: "projects/2016_network-ab-testing.html"
+  - title: "AI HIGHLIGHT"
+    subtitle: "A Liveophoto select frame algorithm on Xiaomi**** series"
+    thumbnail: "assets/projects/aihighlight/laugh.gif"
+    url: "projects/2016_network-ab-testing.html" 
     selected: y
 
-  - title: "Human Atlas"
-    subtitle: "Tool for Mapping Social Networks"
+  - title: "Animate face Expression"
+    subtitle: "A common tool for generate any expression image"
     thumbnail: "assets/projects/2016_human-atlas/thumbnail.png"
     url: "projects/2016_human-atlas.html"
     selected: y
 
-  - title: "Responsive Communities"
-    subtitle: "Pilot project in Jun, Spain"
+  - title: "Change your best expression"
+    subtitle: "Replace your best face expression in group photo"
     thumbnail: "assets/projects/2015_jun/thumbnail.png"
     url: "projects/2015_jun.html"
     selected: y
