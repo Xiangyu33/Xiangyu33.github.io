@@ -1,7 +1,7 @@
 projects:
   - title: "AI HIGHLIGHT"
     subtitle: "A Liveophoto select frame algorithm on Xiaomi**** series"
-    thumbnail: "assets/projects/aihighlight/laugh.jpg"
+    thumbnail: "assets/projects/aihighlight/laugh.gif"
     url: "projects/2016_network-ab-testing.html" 
     selected: y
 
