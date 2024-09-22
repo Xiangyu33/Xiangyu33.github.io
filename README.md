@@ -7,7 +7,7 @@ Test changes with:
 ```
 jekyll serve
 ```
-
+ 
 Push to the ML web directory:
 ```
 rm -rf public_html
