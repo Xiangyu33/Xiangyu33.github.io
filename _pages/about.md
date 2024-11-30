@@ -13,11 +13,11 @@ redirect_from:
 
 参与项目
 -------
-1. 小米15LivePhoto智能封面选帧
+**1. 小米15LivePhoto智能封面选帧** 
 ![alt text](../images/精彩瞬间宣传图.png)
 
 
-2. 人脸表情驱动数据引擎
+**2. 人脸表情驱动数据引擎**
 ![alt text](../images/表情驱动.png)
 
 
